@@ -1,0 +1,8 @@
+{
+  "name": "jiit-todoist",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryzokuken/jiit-todoist.git",
+  "author": "Ujjwal Sharma <usharma1998@gmail.com> (ryzokuken.github.io)",
+  "license": "MIT"
+}
